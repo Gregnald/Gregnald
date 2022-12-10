@@ -1,3 +1,3 @@
-# It's just about 
-###(∂+m)ψ= 0
+### It's just about 
+# (∂+m)ψ= 0
 
